@@ -1,4 +1,4 @@
-#Desafio Mini-Hackathon
+# Desafio Mini-Hackathon
 
 O desafio consiste em realizar requisições para um endpoint e montar a estrutura exigida, seguindo as regras estabelecidas.
 
@@ -35,7 +35,7 @@ A estrutura do `ELEMENTO` é a seguinte:
 }
 ```
 
-##Regras
+## Regras
 
 A solução deve ser implementada de duas formas: i) utilizando apenas callback e ii) utilizando apenas Promises ou/e Async / Await.
 
@@ -55,7 +55,7 @@ Nenhum arquivo dentro da pasta `/api` deve ser alterado;
 
 O arquivo principal da aplicação deve ser o `/index.js`
 
-##Estrutura Final
+## Estrutura Final
 
 A estrutura final que deve ser retornado pela aplicação é a seguinte: 
 
